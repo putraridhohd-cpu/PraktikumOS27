@@ -1,0 +1,1 @@
+## 5 fungsi utama sistem operasi (Operating System / OS) beserta contoh konkret dari dua OS berbeda: Windows dan Linux (Ubuntu).
