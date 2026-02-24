@@ -15,6 +15,7 @@ free -h
 ```
 ![free](images2/free-h.png)
 
+
 -Total ram → 1.91 GB
 -Total swap → 2 GB
 
