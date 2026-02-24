@@ -7,3 +7,7 @@
 maaf pak tidak ada screenshot nya 
 ## 4. Buat user account dengan password yang kuat
 ![create user](images/login.jpg)
+## 5. Reboot dan login ke sistem
+![reboot](images/loginVM.png)
+## 6 Dokumentasikan proses instalasi dengan screenshot key steps
+![dokumentasi](images/Dokumentasi.png)
