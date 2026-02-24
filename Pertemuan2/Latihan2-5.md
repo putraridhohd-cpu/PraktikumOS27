@@ -7,6 +7,7 @@ sudo ss -tulpn
 ![ss](images2/tulpn.png)
 
 ### penjelasan perintah:
+
 *-t → TCP
 *-u → UDP
 *-l → listening
