@@ -5,7 +5,7 @@ oke,berarti kita harus mencari baris yang mengandung “INFO” atau “WARN” 
 ```
 ls
 ```
-## 2.Kalau tidak ada, kamu bisa buat dummy file dulu:
+## 2.kalau tidak ada,kita buat dummy file dulu:
 ```
 nano data.log
 ```
