@@ -4,7 +4,7 @@
 ## 2. Tampilkan versi kernel: uname -r
 ![uname](images/uname.png)
 ## 3. List partisi: lsblk
-![lsblk](images/LSBLK.png.png)
+![lsblk](images/LSBLK.png)
 ## 4. Check network connectivity: ping -c 4 google.com
 ![ping](images/ping.png)
 ## 5.  Install dan jalankan htop untuk melihat resource usage
