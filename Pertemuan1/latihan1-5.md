@@ -7,5 +7,7 @@
 ![lsblk](images/LSBLK.png.png)
 ## 4. Check network connectivity: ping -c 4 google.com
 ![ping](images/ping.png)
-## 5  Install dan jalankan htop untuk melihat resource usage
+## 5.  Install dan jalankan htop untuk melihat resource usage
 ![htop](images/htop.png)
+## 6. Buat laporan singkat tentang konfigurasi sistem Anda
+Sistem operasi yang digunakan adalah Ubuntu Server 22.04 LTS berdasarkan output perintah cat /etc/os-release. Versi kernel yang digunakan adalah 5.15.x berdasarkan perintah uname -r. Sistem memiliki disk virtual sebesar 25GB yang ditampilkan melalui perintah lsblk. Koneksi jaringan berjalan dengan baik karena perintah ping -c 4 google.com berhasil menerima balasan. Monitoring resource menggunakan htop menunjukkan penggunaan CPU dan RAM dalam kondisi normal.
