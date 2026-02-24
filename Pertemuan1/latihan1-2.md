@@ -1,5 +1,6 @@
 # Kapan Sebaiknya Menggunakan Windows vs Linux vs macOS?
 Analisis berdasarkan use case: gaming, development, server, creative work, dan enterprise
+![Screenshot Aplikasi](windows-linux-macos.png)
 ## 1. gaming
 ### Windows → Pilihan Terbaik untuk Gaming
 
