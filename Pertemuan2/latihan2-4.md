@@ -29,11 +29,11 @@ lalu hasilnya seperti ini:
 ![grep](images2/grep.png)
 
 ## 4. PENJELASAN
--E → mengaktifkan Extended Regular Expression (ERE)
-| → simbol alternatif (OR)
--n → tampilkan baris nomor
-"INFO|WARN" → artinya cari baris yang mengandung “INFO” atau “WARN”
-data.log → nama file yang dicari
+* -E → mengaktifkan Extended Regular Expression (ERE)
+* | → simbol alternatif (OR)
+* -n → tampilkan baris nomor
+* "INFO|WARN" → artinya cari baris yang mengandung “INFO” atau “WARN”
+* data.log → nama file yang dicari
 
 ## 5. OPSIONAL 
 Buat hasil tidak sensitif huruf besar/kecil:
