@@ -12,9 +12,39 @@ Windows 11
 
 ### Linux → Cocok untuk pengguna teknis
 
-1.Steam + Proton sudah mendukung banyak game.
-2.Performa bagus untuk beberapa game.
-3.Tapi masih ada game anti-cheat yang tidak kompatibel.
+-Steam + Proton sudah mendukung banyak game.
+-Performa bagus untuk beberapa game.
+-Tapi masih ada game anti-cheat yang tidak kompatibel.
 
 Contoh distro:
 Ubuntu
+
+### macOS → Kurang cocok
+
+-Game sangat terbatas.
+-Banyak developer game tidak merilis versi macOS.
+
+Contoh OS:
+macOS
+
+## 2. Development (Programming)
+### Linux → Sangat Ideal untuk Developer
+
+-Native environment untuk server (Linux-based).
+-Mudah install tools seperti Node.js, Python, Docker.
+-Terminal sangat powerful.
+
+Contoh:
+Ubuntu
+Cocok untuk: Web dev, backend, DevOps, cybersecurity.
+
+### 3.macOS → Favorit Developer Profesional
+
+-Berbasis Unix (mirip Linux).
+-Wajib untuk iOS development (Xcode hanya di macOS).
+-Stabil dan optimal untuk development environment.
+
+Contoh:
+macOS
+Cocok untuk: Web dev, mobile dev (iOS), software engineer profesional.
+
