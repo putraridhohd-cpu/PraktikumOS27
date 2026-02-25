@@ -20,7 +20,7 @@ lalu hasilnya seperti ini:
 ![lsblk](images2/lsblk-f.png)
 
 ### Dari sini kita dapat:
-* Root filesystem berada pada device /dev/sda2.
+* Root filesystem berada pada device /dev/mapper/ubuntu--vg-ubuntu--lv
 * Tipe filesystem yang digunakan adalah ext4.
 * UUID dari filesystem tersebut adalah:
 ![lsblk](images2/xt4_REC.png)
